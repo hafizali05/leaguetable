@@ -1,0 +1,19 @@
+{
+  "name": "leaguetable",
+  "version": "1.0.0",
+  "description": "football league table",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "author": "hafiz didarali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-error-handler": "^1.1.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
